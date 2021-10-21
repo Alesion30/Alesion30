@@ -13,6 +13,9 @@
   </a>
 </p>
 
+### 🏆 Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alesion30&theme=nord&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 😈 Skill Set (As of June 16, 2021)
 <img width="800" alt="スクリーンショット 2021-06-16 4 11 28" src="https://user-images.githubusercontent.com/50891407/122109960-f05cf580-ce58-11eb-92bf-aaf828286598.png">
