@@ -8,7 +8,7 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alesion30&langs_count=8&layout=compact&title_color=81A1C1&text_color=ECEFF4&bg_color=2E3440&icon_color=D8DEE9&border_radius=10" />
 </div>
 
-### 🏆 Github Profile Trophy
+### 🏆 GitHub Profile Trophy
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Alesion30&theme=nord&column=8&no-frame=true"/>
 
