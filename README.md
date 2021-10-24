@@ -11,7 +11,7 @@
 
 ### 🏆 GitHub Profile Trophy
 
-<img width="800" src="https://github-profile-trophy.vercel.app/?username=Alesion30&theme=nord&column=8&no-frame=true"/>
+<img width="800" src="https://github-profile-trophy.vercel.app/?username=Alesion30&theme=nord&no-frame=true"/>
 
 
 ### 😈 Skill Set (As of June 16, 2021)
