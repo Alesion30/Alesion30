@@ -25,4 +25,7 @@
 <a href="https://aws.amazon.com"><img width="50" alt="AWS" src="https://user-images.githubusercontent.com/50891407/139363713-60c8ed2b-ffc9-42a8-9a23-893cb7e201a1.png" /></a>
 <a href="https://www.docker.com"><img width="50" alt="Docker" src="https://user-images.githubusercontent.com/50891407/139363841-44959103-afaf-4438-b62b-d83934e863bc.png" /></a>
 <a href="https://laravel.com"><img width="50" alt="laravel" src="https://user-images.githubusercontent.com/50891407/139363995-f7fc492b-82c6-47b4-88f5-b132e0aed0cf.png" /></a>
+<a href="https://nextjs.org"><img width="50" alt="nextjs" src="https://user-images.githubusercontent.com/50891407/139364497-777f5a96-a86a-4556-af53-4814c6ad3ac3.png" /></a>
+<a href="https://jp.vuejs.org"><img width="50" alt="vue" src="https://user-images.githubusercontent.com/50891407/139364700-68c66ad8-7e39-48f8-a9f9-b34b52624bd3.png" /></a>
+<a href="https://nuxtjs.org"><img width="50" alt="nuxtjs" src="https://user-images.githubusercontent.com/50891407/139364926-4d89e4fe-a445-4d57-a69a-35d1f6884574.png" /></a>
 
