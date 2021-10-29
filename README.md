@@ -14,6 +14,6 @@
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=Alesion30&theme=nord&no-frame=true"/>
 
 
-### 😈 Skill Set (As of June 16, 2021)
+### 😈 Skill Set (As of October 29, 2021)
 
-<img width="800" alt="スクリーンショット 2021-06-16 4 11 28" src="https://user-images.githubusercontent.com/50891407/122109960-f05cf580-ce58-11eb-92bf-aaf828286598.png">
+<img width="50" alt="react" src="https://user-images.githubusercontent.com/50891407/139362086-2cd96bf6-c940-4b56-a41e-bfe7e613c758.jpg">
