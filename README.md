@@ -30,5 +30,10 @@
 <a href="https://golang.org"><img height="50" alt="golang" src="https://user-images.githubusercontent.com/50891407/139365454-d8a6e85d-302e-47be-a809-018d7c4a1aaa.png" /></a>
 <a href="https://ja.wordpress.org"><img width="50" alt="wordpress" src="https://user-images.githubusercontent.com/50891407/139365633-a01b5300-2e83-479f-b451-e3bc7e2831a5.png" /></a>
 <a href="https://www.mysql.com"><img width="50" alt="MySQL" src="https://user-images.githubusercontent.com/50891407/139365792-c2d0139d-f283-4467-b45f-2636b29d6f0c.png" /></a>
+<a href="https://nodejs.org"><img width="50" alt="Node" src="https://user-images.githubusercontent.com/50891407/139366403-a6de0dcb-3b6a-4428-a5f4-be9fe2c8ea4b.png" /></a>
+<a href="https://reactnative.dev"><img width="50" alt="ReactNative" src="https://user-images.githubusercontent.com/50891407/139366657-2c5eefe1-39d2-4190-b4c2-3771f3518467.png" /></a>
+<a href="https://obniz.com"><img width="50" alt="obniz" src="https://user-images.githubusercontent.com/50891407/139367209-01e28f98-c739-430d-bbbd-1b1413a9b2fb.jpg" /></a>
+<a href="https://www.arduino.cc"><img width="50" alt="arduino" src="https://user-images.githubusercontent.com/50891407/139367283-7a8c34a0-05d1-4c70-b4c8-c3c70bf78c84.png" /></a>
+<a href="https://www.figma.com"><img width="50" alt="Figma" src="https://user-images.githubusercontent.com/50891407/139367427-b89493a0-cd31-497a-985f-cd03178cc085.png" /></a>
+<a href="https://www.adobe.com/products/xd.html"><img width="50" alt="XD" src="https://user-images.githubusercontent.com/50891407/139367527-94a44056-e3ef-436c-9782-da339295f1d4.png" /></a>
 
-<a href=""><img width="50" alt="" src="" /></a>
