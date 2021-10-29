@@ -18,8 +18,11 @@
 
 <a href=""><img width="50" alt="" src="" /></a>
 
-<a href="https://reactjs.org" target="_blank"><img width="50" alt="react" src="https://user-images.githubusercontent.com/50891407/139362086-2cd96bf6-c940-4b56-a41e-bfe7e613c758.jpg" /></a>
+<a href="https://reactjs.org"><img width="50" alt="react" src="https://user-images.githubusercontent.com/50891407/139362086-2cd96bf6-c940-4b56-a41e-bfe7e613c758.jpg" /></a>
 <a href="https://www.typescriptlang.org"><img width="50" alt="typescript" src="https://user-images.githubusercontent.com/50891407/139362779-55ef1a09-0898-4153-aca0-096def111d94.png" /></a>
 <a href="https://flutter.dev"><img width="50" alt="flutter" src="https://user-images.githubusercontent.com/50891407/139362900-17441c51-2ae3-4037-8be9-545bd82b8dd5.png" /></a>
 <a href="https://firebase.google.com"><img width="50" alt="firebase" src="https://user-images.githubusercontent.com/50891407/139363168-670844e7-8911-4285-8884-c34ef7a31485.png" /></a>
+<a href="https://aws.amazon.com"><img width="50" alt="AWS" src="https://user-images.githubusercontent.com/50891407/139363713-60c8ed2b-ffc9-42a8-9a23-893cb7e201a1.png" /></a>
+<a href="https://www.docker.com"><img width="50" alt="Docker" src="https://user-images.githubusercontent.com/50891407/139363841-44959103-afaf-4438-b62b-d83934e863bc.png" /></a>
+<a href="https://laravel.com"><img width="50" alt="laravel" src="https://user-images.githubusercontent.com/50891407/139363995-f7fc492b-82c6-47b4-88f5-b132e0aed0cf.png" /></a>
 
