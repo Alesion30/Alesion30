@@ -18,7 +18,7 @@
 
 <a href=""><img width="50" alt="" src="" /></a>
 
-<a href="https://reactjs.org"><img width="50" alt="react" src="https://user-images.githubusercontent.com/50891407/139362086-2cd96bf6-c940-4b56-a41e-bfe7e613c758.jpg" /></a>
+<a href="https://reactjs.org" target="_blank"><img width="50" alt="react" src="https://user-images.githubusercontent.com/50891407/139362086-2cd96bf6-c940-4b56-a41e-bfe7e613c758.jpg" /></a>
 <a href="https://www.typescriptlang.org"><img width="50" alt="typescript" src="https://user-images.githubusercontent.com/50891407/139362779-55ef1a09-0898-4153-aca0-096def111d94.png" /></a>
 <a href="https://flutter.dev"><img width="50" alt="flutter" src="https://user-images.githubusercontent.com/50891407/139362900-17441c51-2ae3-4037-8be9-545bd82b8dd5.png" /></a>
 <a href="https://firebase.google.com"><img width="50" alt="firebase" src="https://user-images.githubusercontent.com/50891407/139363168-670844e7-8911-4285-8884-c34ef7a31485.png" /></a>
