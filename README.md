@@ -16,4 +16,4 @@
 
 ### 😈 Skill Set (As of October 29, 2021)
 
-<img width="50" alt="react" src="https://user-images.githubusercontent.com/50891407/139362086-2cd96bf6-c940-4b56-a41e-bfe7e613c758.jpg">
+<a href="https://reactjs.org"><img width="50" alt="react" src="https://user-images.githubusercontent.com/50891407/139362086-2cd96bf6-c940-4b56-a41e-bfe7e613c758.jpg"></a>
