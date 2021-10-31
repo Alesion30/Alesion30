@@ -22,6 +22,7 @@
 <a href="https://flutter.dev"><img height="50" alt="flutter" src="https://user-images.githubusercontent.com/50891407/139362900-17441c51-2ae3-4037-8be9-545bd82b8dd5.png" /></a>
 <a href="https://firebase.google.com"><img height="50" alt="firebase" src="https://user-images.githubusercontent.com/50891407/139363168-670844e7-8911-4285-8884-c34ef7a31485.png" /></a>
 <a href="https://aws.amazon.com"><img height="50" alt="AWS" src="https://user-images.githubusercontent.com/50891407/139363713-60c8ed2b-ffc9-42a8-9a23-893cb7e201a1.png" /></a>
+<a href="https://cloud.google.com/gcp"><img height="50" alt="GCP" src="https://user-images.githubusercontent.com/50891407/139562695-a6eda4c2-e99e-4594-af84-eebf052561ac.png" /></a>
 <a href="https://www.docker.com"><img height="50" alt="Docker" src="https://user-images.githubusercontent.com/50891407/139363841-44959103-afaf-4438-b62b-d83934e863bc.png" /></a>
 <a href="https://laravel.com"><img height="50" alt="laravel" src="https://user-images.githubusercontent.com/50891407/139363995-f7fc492b-82c6-47b4-88f5-b132e0aed0cf.png" /></a>
 <a href="https://jquery.com"><img height="50" alt="jQuery" src="https://user-images.githubusercontent.com/50891407/139562632-d0834341-709d-4ce3-89f5-597a26868c0a.png" /></a>
