@@ -24,6 +24,7 @@
 <a href="https://aws.amazon.com"><img height="50" alt="AWS" src="https://user-images.githubusercontent.com/50891407/139363713-60c8ed2b-ffc9-42a8-9a23-893cb7e201a1.png" /></a>
 <a href="https://www.docker.com"><img height="50" alt="Docker" src="https://user-images.githubusercontent.com/50891407/139363841-44959103-afaf-4438-b62b-d83934e863bc.png" /></a>
 <a href="https://laravel.com"><img height="50" alt="laravel" src="https://user-images.githubusercontent.com/50891407/139363995-f7fc492b-82c6-47b4-88f5-b132e0aed0cf.png" /></a>
+<a href="https://jquery.com"><img height="50" alt="jQuery" src="https://user-images.githubusercontent.com/50891407/139562632-d0834341-709d-4ce3-89f5-597a26868c0a.png" /></a>
 <a href="https://reactnative.dev"><img height="50" alt="ReactNative" src="https://user-images.githubusercontent.com/50891407/139366657-2c5eefe1-39d2-4190-b4c2-3771f3518467.png" /></a>
 <a href="https://jp.vuejs.org"><img height="50" alt="vue" src="https://user-images.githubusercontent.com/50891407/139364700-68c66ad8-7e39-48f8-a9f9-b34b52624bd3.png" /></a>
 <a href="https://nuxtjs.org"><img height="50" alt="nuxtjs" src="https://user-images.githubusercontent.com/50891407/139364926-4d89e4fe-a445-4d57-a69a-35d1f6884574.png" /></a>
