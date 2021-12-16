@@ -1,5 +1,19 @@
 # Hi there 👋 I'm Yuta Ohira
 
+<p align="left"> 
+  <a href="https://github.com/Alesion30/Alesion30/">
+    <img src="https://komarev.com/ghpvc/?username=Alesion30" alt="Alesion30" />
+  </a>
+  <a href="https://github.com/Alesion30">
+    <img height="20" src="https://img.shields.io/github/followers/Alesion30?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/Alesion30">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Alesion30/posts.svg" />
+  </a>
+    <img height="20" src="https://qiita-badge.apiapi.app/s/Alesion30/contributions.svg" />
+  </a>
+</p>
+
 
 ### 💎 GitHub Stats
 
