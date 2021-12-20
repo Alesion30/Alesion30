@@ -28,6 +28,11 @@
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=Alesion30&theme=nord&no-frame=true"/>
 
 
+### 🧑‍💻 WakaTime
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
+
 ### 😈 Languages and Tools (As of December 17, 2021)
 
 <!-- generate by https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
