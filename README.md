@@ -33,7 +33,7 @@
 </p>
 
 
-### 💎 GitHub Stats
+## 💎 GitHub Stats
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Alesion30&count_private=true&show_icons=true&title_color=81A1C1&text_color=ECEFF4&bg_color=2E3440&icon_color=D8DEE9&border_radius=10" />
@@ -41,12 +41,12 @@
 </div>
 
 
-### 🏆 GitHub Profile Trophy
+## 🏆 GitHub Profile Trophy
 
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=Alesion30&theme=nord&no-frame=true"/>
 
 
-### 🧑‍💻 WakaTime
+## 🧑‍💻 WakaTime
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2039%20mins-blue)
@@ -103,7 +103,7 @@ Python                   9 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-### 😈 Languages and Tools (As of December 17, 2021)
+## 😈 Languages and Tools (As of December 17, 2021)
 
 <!-- generate by https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 
