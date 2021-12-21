@@ -28,7 +28,7 @@
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=Alesion30&theme=nord&no-frame=true"/>
 
 
-### 🧑‍💻 WakaTime
+<!-- ### 🧑‍💻 WakaTime -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2039%20mins-blue)
