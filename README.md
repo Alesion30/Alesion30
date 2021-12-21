@@ -1,12 +1,23 @@
 # Hi there 👋 I'm Yuta Ohira
 
 <p align="left"> 
-  <a href="https://github.com/Alesion30/Alesion30/">
-    <img src="https://komarev.com/ghpvc/?username=Alesion30" alt="Alesion30" />
+  <!-- Zenn -->
+  <a href="https://zenn.dev/alesion">
+    <img src="https://zenn.badge.nikaera.com/s/alesion/likes?style=flat" alt="alesion likes" />
   </a>
-  <a href="https://github.com/Alesion30">
-    <img height="20" src="https://img.shields.io/github/followers/Alesion30?label=follow&logo=github&style=flat" />
+  <a href="https://zenn.dev/alesion/articles">
+    <img src="https://zenn.badge.nikaera.com/s/alesion/articles?style=flat" alt="alesion articles" />
   </a>
+  <a href="https://zenn.dev/alesion/followers">
+    <img src="https://zenn.badge.nikaera.com/s/alesion/followers?style=flat" alt="alesion followers" />
+  </a>
+  <a href="https://zenn.dev/alesion/books">
+    <img src="https://zenn.badge.nikaera.com/s/alesion/books?style=flat" alt="alesion books" />
+  </a>
+  <a href="https://zenn.dev/alesion/scraps">
+    <img src="https://zenn.badge.nikaera.com/s/alesion/scraps?style=flat" alt="alesion scraps" />
+  </a>
+  <!-- qiita -->
   <a href="http://qiita.com/Alesion30">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Alesion30/posts.svg" />
   </a>
