@@ -1,6 +1,13 @@
 # Hi there 👋 I'm Yuta Ohira
 
-<p align="left"> 
+<p align="left">
+  <!-- GitHub -->
+  <a href="https://github.com/alesion30/alesion30/">
+    <img src="https://komarev.com/ghpvc/?username=alesion30" alt="alesion30" />
+  </a>
+  <a href="https://github.com/alesion30">
+    <img height="20" src="https://img.shields.io/github/followers/alesion30?label=follow&logo=github&style=flat" />
+  </a>
   <!-- Zenn -->
   <a href="https://zenn.dev/alesion">
     <img src="https://zenn.badge.nikaera.com/s/alesion/likes?style=flat" alt="alesion likes" />
