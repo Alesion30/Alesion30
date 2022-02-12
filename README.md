@@ -9,7 +9,7 @@
     <img height="20" src="https://img.shields.io/github/followers/alesion30?label=follow&logo=github&style=flat" />
   </a>
   <!-- Zenn -->
-  <a href="https://zenn.dev/alesion">
+<!--   <a href="https://zenn.dev/alesion">
     <img src="https://zenn.badge.nikaera.com/s/alesion/likes?style=flat" alt="alesion likes" />
   </a>
   <a href="https://zenn.dev/alesion/articles">
@@ -23,13 +23,13 @@
   </a>
   <a href="https://zenn.dev/alesion/scraps">
     <img src="https://zenn.badge.nikaera.com/s/alesion/scraps?style=flat" alt="alesion scraps" />
-  </a>
+  </a> -->
   <!-- qiita -->
-  <a href="http://qiita.com/Alesion30">
+<!--   <a href="http://qiita.com/Alesion30">
     <img height="20" src="https://qiita-badge.apiapi.app/s/Alesion30/posts.svg" />
   </a>
     <img height="20" src="https://qiita-badge.apiapi.app/s/Alesion30/contributions.svg" />
-  </a>
+  </a> -->
 </p>
 
 
