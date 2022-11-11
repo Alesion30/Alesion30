@@ -35,6 +35,11 @@ About me: https://www.y-ohira.me
 </p>
 
 
+## 🐍 Contribution
+
+![GitHub Snake dark](https://github.com/Alesion30/Alesion30/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 💎 GitHub Stats
 
 <div>
@@ -46,11 +51,6 @@ About me: https://www.y-ohira.me
 ## 🏆 GitHub Profile Trophy
 
 <img width="800" src="https://github-profile-trophy.vercel.app/?username=Alesion30&theme=nord&no-frame=true"/>
-
-
-## 🐍 Contribution
-
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 
 ## 🧑‍💻 WakaTime
