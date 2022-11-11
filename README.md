@@ -37,7 +37,7 @@ About me: https://www.y-ohira.me
 
 ## 🐍 Contribution
 
-![GitHub Snake dark](https://github.com/Alesion30/Alesion30/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/Alesion30/Alesion30/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake dark" />
 
 
 ## 💎 GitHub Stats
