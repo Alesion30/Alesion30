@@ -128,4 +128,4 @@ Very interested in.
 
 I can handle a few others.
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,vue,nuxt,redux,electron,express,nodejs,deno,dart,python,flask,php,laravel,go,rust,html,css,sass,tailwind,bootstrap,webpack,supabase,aws,dynamodb,mysql,figma,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,vue,nuxt,redux,electron,express,nodejs,deno,dart,python,flask,php,laravel,wordpress,go,rust,html,css,sass,tailwind,bootstrap,webpack,supabase,aws,dynamodb,mysql,figma,xd,vscode,latex)](https://skillicons.dev)
