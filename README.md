@@ -2,14 +2,24 @@
 
 About me: https://www.y-ohira.me
 
-<p align="left">
+[![Likes](https://badgen.org/img/zenn/alesion/likes?style=for-the-badge)](https://zenn.dev/alesion)
+[![Followers](https://badgen.org/img/zenn/alesion/followers?style=for-the-badge)](https://zenn.dev/alesion)
+[![Articles](https://badgen.org/img/zenn/alesion/articles?style=for-the-badge)](https://zenn.dev/alesion)
+[![Books](https://badgen.org/img/zenn/alesion/books?style=for-the-badge)](https://zenn.dev/alesion?tab=books)
+[![Scraps](https://badgen.org/img/zenn/alesion/scraps?style=for-the-badge)](https://zenn.dev/alesion?tab=scraps)
+
+[![Contributions](https://badgen.org/img/qiita/alesion30/contributions?style=for-the-badge)](https://qiita.com/alesion30)
+[![Followers](https://badgen.org/img/qiita/alesion30/followers?style=for-the-badge)](https://qiita.com/alesion30)
+[![Articles](https://badgen.org/img/qiita/alesion30/articles?style=for-the-badge)](https://qiita.com/alesion30)
+
+<!-- <p align="left"> -->
   <!-- GitHub -->
-  <a href="https://github.com/alesion30/alesion30/">
+<!--   <a href="https://github.com/alesion30/alesion30/">
     <img src="https://komarev.com/ghpvc/?username=alesion30" alt="alesion30" />
   </a>
   <a href="https://github.com/alesion30">
     <img height="20" src="https://img.shields.io/github/followers/alesion30?label=follow&logo=github&style=flat" />
-  </a>
+  </a> -->
   <!-- Zenn -->
 <!--   <a href="https://zenn.dev/alesion">
     <img src="https://zenn.badge.nikaera.com/s/alesion/likes?style=flat" alt="alesion likes" />
@@ -32,7 +42,7 @@ About me: https://www.y-ohira.me
   </a>
     <img height="20" src="https://qiita-badge.apiapi.app/s/Alesion30/contributions.svg" />
   </a> -->
-</p>
+<!-- </p> -->
 
 
 <!-- ## 🐍 Contribution -->
