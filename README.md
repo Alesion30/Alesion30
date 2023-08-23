@@ -46,11 +46,15 @@
   </a> -->
 <!-- </p> -->
 
+## 😈 Languages and Tools
 
-## 🐍 Contribution
+Very interested in.
 
-<img src="https://github.com/Alesion30/Alesion30/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake dark" />
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,flutter,firebase)](https://skillicons.dev)
 
+I can handle a few others.
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,vue,nuxt,redux,electron,express,nodejs,deno,dart,python,flask,php,laravel,wordpress,go,rust,html,css,sass,tailwind,bootstrap,webpack,supabase,aws,dynamodb,mysql,figma,xd,vscode,latex)](https://skillicons.dev)
 
 ## 💎 GitHub Stats
 
@@ -119,12 +123,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-## 😈 Languages and Tools
+## 🐍 Contribution
 
-Very interested in.
+<img src="https://github.com/Alesion30/Alesion30/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake dark" />
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,flutter,firebase)](https://skillicons.dev)
-
-I can handle a few others.
-
-[![My Skills](https://skillicons.dev/icons?i=javascript,vue,nuxt,redux,electron,express,nodejs,deno,dart,python,flask,php,laravel,wordpress,go,rust,html,css,sass,tailwind,bootstrap,webpack,supabase,aws,dynamodb,mysql,figma,xd,vscode,latex)](https://skillicons.dev)
