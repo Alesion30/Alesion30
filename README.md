@@ -1,6 +1,7 @@
 <!-- # Hi there <img width="35" src="https://user-images.githubusercontent.com/50891407/148686885-0fefeb76-4cf6-473a-9e3e-889ce5513450.gif" /> I'm Yuta Ohira -->
 
-![alesion30](https://github.com/Alesion30/Alesion30/assets/50891407/5814fd76-9743-4cf8-89ff-b2be2fd49fb6)
+<!-- ![alesion30](https://github.com/Alesion30/Alesion30/assets/50891407/5814fd76-9743-4cf8-89ff-b2be2fd49fb6) -->
+
 
 <!--
 [![Likes](https://badgen.org/img/zenn/alesion/likes?style=for-the-badge)](https://zenn.dev/alesion)
