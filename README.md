@@ -53,9 +53,9 @@ Very interested in.
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,flutter,firebase)](https://skillicons.dev)
 
-I can handle a few others.
+<!-- I can handle a few others. -->
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,vue,nuxt,redux,electron,express,nodejs,deno,dart,python,flask,php,laravel,wordpress,go,rust,html,css,sass,tailwind,bootstrap,webpack,supabase,aws,dynamodb,mysql,figma,xd,vscode,latex)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=javascript,vue,nuxt,redux,electron,express,nodejs,deno,dart,python,flask,php,laravel,wordpress,go,rust,html,css,sass,tailwind,bootstrap,webpack,supabase,aws,dynamodb,mysql,figma,xd,vscode,latex)](https://skillicons.dev) -->
 
 ## 💎 GitHub Stats
 
@@ -122,9 +122,3 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
  Last Updated on 02/04/2024 21:17:30 UTC
 <!--END_SECTION:waka-->
-
-
-## 🐍 Contribution
-
-<img src="https://github.com/Alesion30/Alesion30/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake dark" />
-
