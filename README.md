@@ -73,8 +73,6 @@ Very interested in.
 ## 🧑‍💻 WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C207%20hrs%201%20min-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -120,5 +118,5 @@ Shell                    3 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 21:22:20 UTC
+ Last Updated on 16/11/2025 21:18:56 UTC
 <!--END_SECTION:waka-->
