@@ -33,8 +33,6 @@ Very interested in.
 ## 🧑‍💻 WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C335%20hrs%2026%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -60,11 +58,7 @@ Sunday                   1082 commits        ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     2 hrs 35 mins       █████████████████░░░░░░░░   67.54 % 
-TypeScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Terraform                16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -80,5 +74,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 21:15:06 UTC
+ Last Updated on 02/01/2026 21:14:34 UTC
 <!--END_SECTION:waka-->
